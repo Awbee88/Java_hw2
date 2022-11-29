@@ -1,0 +1,17 @@
+[
+    {
+        "surname": "Ivanov",
+        "grade": "5",
+        "subject": "Maths"
+    },
+    {
+        "surname": "Petrova",
+        "grade": "4",
+        "subject": "Informatics"
+    },
+    {
+        "surname": "Krasnov",
+        "grade": "5",
+        "subject": "Physics"
+    }
+]
